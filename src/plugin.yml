@@ -1,0 +1,9 @@
+name: MapPaint
+version: 1.0 
+author: Krasgo
+main: com.krasgo.mappaint.Main
+description: Convert maps into paintings of any image online.
+
+commands:
+  paintmap:
+    description: "Convert the map you're currently holding into a painting. Provide a URL for the image you want to paint."
